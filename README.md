@@ -24,9 +24,7 @@ Comment construire un modèle prédictif robuste capable d’anticiper l’évol
 
 ## 🏗️ Stack Technologique
 
-![Python](https://img.shields.io/badge/Python-Data_Science-blue?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-Statistical_Modeling-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-black?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
